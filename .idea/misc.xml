@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/RunBurguerRober/RunBurguer2.0/app/src/main/res/layout/activity_agregar_cliente.xml" value="0.19972826086956522" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/RunBurguerRober/RunBurguer2.0/app/src/main/res/layout/activity_agregar_persona.xml" value="0.4" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/RunBurguerRober/RunBurguer2.0/app/src/main/res/layout/activity_agregarproducto.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/RunBurguerRober/RunBurguer2.0/app/src/main/res/layout/activity_gestion_productos.xml" value="0.1515625" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/RunBurguerRober/RunBurguer2.0/app/src/main/res/layout/activity_gestion_usuarios.xml" value="0.25" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/RunBurguerRober/RunBurguer2.0/app/src/main/res/layout/activity_gestion_ventas.xml" value="0.1515625" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/RunBurguerRober/RunBurguer2.0/app/src/main/res/layout/activity_modificar_datos_usuario.xml" value="0.25" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/RunBurguerRober/RunBurguer2.0/app/src/main/res/layout/item_list_view.xml" value="0.264" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/RunBurguerRober/RunBurguer2.0/app/src/main/res/layout/item_list_view_productos.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/RunBurguerRober/RunBurguer2.0/app/src/main/res/layout/item_list_view_ventas.xml" value="0.20969202898550723" />
+        <entry key="..\:/Users/alexa/Documents/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_agregar.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/alexa/Documents/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_agregar_menu.xml" value="0.2" />
+        <entry key="..\:/Users/alexa/Documents/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_agregar_persona.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/alexa/Documents/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_carta.xml" value="0.2" />
+        <entry key="..\:/Users/alexa/Documents/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_comentarios.xml" value="0.2" />
+        <entry key="..\:/Users/alexa/Documents/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_descuentos.xml" value="0.2" />
+        <entry key="..\:/Users/alexa/Documents/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_eliminar.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/alexa/Documents/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_eliminar_usuario.xml" value="0.2" />
+        <entry key="..\:/Users/alexa/Documents/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_gestion_productos.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/alexa/Documents/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_gestion_usuarios.xml" value="0.2" />
+        <entry key="..\:/Users/alexa/Documents/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_listar.xml" value="0.2" />
+        <entry key="..\:/Users/alexa/Documents/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_listar_usuario.xml" value="0.2" />
+        <entry key="..\:/Users/alexa/Documents/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/alexa/Documents/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/alexa/Documents/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_menu_admin.xml" value="0.2" />
+        <entry key="..\:/Users/alexa/Documents/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_menu_principal.xml" value="0.33" />
+        <entry key="..\:/Users/alexa/Documents/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_modificar.xml" value="0.2" />
+        <entry key="..\:/Users/alexa/Documents/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_modificar_usuario.xml" value="0.2" />
+        <entry key="..\:/Users/alexa/Documents/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_pedidos.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/alexa/Documents/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_reservas.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/alexa/Documents/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_seguimiento.xml" value="0.2" />
+        <entry key="..\:/Users/alexa/Documents/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_ver_comentarios.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_administrador_list_adapter.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_agregar.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_agregar_menu.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_agregar_persona.xml" value="0.33" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_carta.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_descripcion.xml" value="0.33" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_eliminar.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_eliminar_usuario.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_encabe.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_encabezado.xml" value="0.9126984126984127" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_gestion_productos.xml" value="0.1" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_gestion_usuarios.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_listar_usuario.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_login.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_menu_admin.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_menu_principal.xml" value="0.25" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_modificar.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_modificar_datos_usuario.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_modificar_usuario.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_pedidos.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_registrarse.xml" value="0.33" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/activity_ver_comentarios.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/encabezado.xml" value="0.33" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/encabezadoapp.xml" value="0.33" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguer/app/src/main/res/layout/item_list_view.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguerRober/RunBurguer2.0/app/src/main/res/layout/activity_gestion_productos.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguerRober/RunBurguer2.0/app/src/main/res/layout/activity_gestion_usuarios.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguerRober/RunBurguer2.0/app/src/main/res/layout/activity_gestion_ventas.xml" value="0.25" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguerRober/RunBurguer2.0/app/src/main/res/layout/activity_listar_usuario.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguerRober/RunBurguer2.0/app/src/main/res/layout/activity_menu_admin.xml" value="0.5" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguerRober/RunBurguer2.0/app/src/main/res/layout/activity_menu_principal.xml" value="0.18614130434782608" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguerRober/RunBurguer2.0/app/src/main/res/layout/activity_modificar_datos_usuario.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguerRober/RunBurguer2.0/app/src/main/res/layout/activity_url.xml" value="0.18614130434782608" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguerRober/RunBurguer2.0/app/src/main/res/layout/item_list_view.xml" value="0.1" />
+        <entry key="..\:/Users/alexa/OneDrive/Documentos/ACTIVIDADES ANDROID STUDIO/RunBurguerRober/RunBurguer2.0/app/src/main/res/layout/item_list_view_productos.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/mabet/AndroidStudioProjects/RunBurguer2.0/app/src/main/res/layout/activity_agregar_comentario.xml" value="0.25" />
+        <entry key="..\:/Users/mabet/AndroidStudioProjects/RunBurguer2.0/app/src/main/res/layout/activity_agregar_menu.xml" value="0.22" />
+        <entry key="..\:/Users/mabet/AndroidStudioProjects/RunBurguer2.0/app/src/main/res/layout/activity_agregar_persona.xml" value="0.25" />
+        <entry key="..\:/Users/mabet/AndroidStudioProjects/RunBurguer2.0/app/src/main/res/layout/activity_carta.xml" value="0.25" />
+        <entry key="..\:/Users/mabet/AndroidStudioProjects/RunBurguer2.0/app/src/main/res/layout/activity_comentarios.xml" value="0.14492753623188406" />
+        <entry key="..\:/Users/mabet/AndroidStudioProjects/RunBurguer2.0/app/src/main/res/layout/activity_encabezado.xml" value="0.2" />
+        <entry key="..\:/Users/mabet/AndroidStudioProjects/RunBurguer2.0/app/src/main/res/layout/activity_gestion_usuarios.xml" value="0.1" />
+        <entry key="..\:/Users/mabet/AndroidStudioProjects/RunBurguer2.0/app/src/main/res/layout/activity_menu_admin.xml" value="0.33" />
+        <entry key="..\:/Users/mabet/AndroidStudioProjects/RunBurguer2.0/app/src/main/res/layout/activity_menu_principal.xml" value="0.33" />
+        <entry key="..\:/Users/mabet/AndroidStudioProjects/RunBurguer2.0/app/src/main/res/layout/activity_pedidos.xml" value="0.1" />
+        <entry key="..\:/Users/mabet/AndroidStudioProjects/RunBurguer2.0/app/src/main/res/layout/activity_reservas.xml" value="0.18" />
+        <entry key="..\:/Users/mabet/AndroidStudioProjects/RunBurguer2.0/app/src/main/res/layout/item_list_view_comentarios.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
